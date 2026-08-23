@@ -18,13 +18,13 @@
 <p align="center"><em>while humans remain the system’s most unpredictable variable.</em></p>
 
 ### <p align="center">⚡️</p>
-<!-- ========= END TEASER ========= -->
 
 <br>
 
 #
 
-<br><br><br>
+<br><br>
+<!-- ========= END TEASER ========= -->
 
 
 <!-- ========= START SPONSOR BADGE ========= -->
@@ -43,9 +43,8 @@
    <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
  </p>
 
-<br><br><br><br>
+<br><br>
 <!-- =========  END PUC HEADER GIF ========= -->
-
 
 <!-- ======================================= Start Institucional INFOR =========================================== -->
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  <br>
@@ -54,9 +53,39 @@
 [**Subject:**](): Artificial Intelligence Knowledge Systems & Intelligent Agents  <br>
 **Professor:** ✨[Sandra Muniz Bozolan]() <br>
 **Author:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari)  
+
+<br><br>
+
+#
+
+<br><br>
+<!-- ======================================= SZEnd Institutional INFO ===========================================  -->
+
+<!-- ========= START NOTE ========= -->
+> [!WARNING]
+>
+> ⚠️ Projects may be publicly shared when permitted.  
+> The focus is on applied, hands-on learning with real datasets in AI governance and security contexts.  
+> All sensitive content remains protected in private repositories when required.
+>
+
+<br><br>
+
+#
+
+<br><br>
+<!-- ========= END NOTE ========= -->
 <!-- ======================================= END I Institucional INFOR =========================================== -->
 
 
+**[Ship Your First Managed Agent — Anthropic / Claude]()**
+
+
+
+https://github.com/user-attachments/assets/03678747-9513-4179-bae7-698656e5716b  
+
+
+[Source ⤳ YouTube](https://youtu.be/19HDQ9HppOA?si=PjQFdAYvaD2x7Jkn) · [More ⤳ Details & Timeline](./docs/workshops/ship-your-first-managed-agent.md)
 
 
 
