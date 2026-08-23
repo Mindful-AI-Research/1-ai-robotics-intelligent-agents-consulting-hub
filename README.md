@@ -5,7 +5,7 @@
 <!--END 🇬🇧English LANGUAGE BUTTON  --  -->
 
 
-# <p align="center">🦾🤖🪽 1. [Artificial Intelligence](), [Robotics]() & [Intelligent Agents]() ➝ [Research & Consulting Hub]()</p>
+# <p align="center">🦾🤖🪽 1. [Artificial Intelligence](), [Robotics]() & [Intelligent Agents]() ⤳ [Research & Consulting Hub]()</p>
 
 #### <p align="center">A structured AI/ML and Data Science hub exploring **knowledge representation, expert systems, fuzzy logic, case-based reasoning, robotics, intelligent agents, and multi-agent systems**, connecting foundational concepts to machine learning, neural networks, deep learning, and modern AI applications through research, hands-on experimentation, and consulting.</p>
 
