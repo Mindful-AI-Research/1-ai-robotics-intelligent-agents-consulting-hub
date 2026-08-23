@@ -5,21 +5,35 @@
 <!--END 🇬🇧English LANGUAGE BUTTON  --  -->
 
 
+
 # <p align="center">🦾🤖🪽 1. [Artificial Intelligence](), [Robotics]() & [Intelligent Agents]() ⤳ [Research & Consulting Hub]()</p>
 
-#### <p align="center">A structured AI/ML and Data Science hub exploring **knowledge representation, expert systems, fuzzy logic, case-based reasoning, robotics, intelligent agents, and multi-agent systems**, connecting foundational concepts to machine learning, neural networks, deep learning, and modern AI applications through research, hands-on experimentation, and consulting.</p>
+#### <p align="center">A structured AI/ML and Data Science hub exploring <strong>knowledge representation, expert systems, fuzzy logic, case-based reasoning, robotics, intelligent agents, and multi-agent systems</strong> — connecting foundational concepts with machine learning, neural networks, deep learning, and modern AI applications through research, hands-on experimentation, and consulting.</p>
 
 <br><br>
 
-###### <p align="center">🦾 ***Building machines that reason, act, and collaborate...*** 🪽</p>
-###### <p align="center">*while humans remain the system’s most unpredictable variable.*</p>
-#### <p align="center">⚡️</p>
+<!-- ========= START TEASER ========= -->
+<p align="center">🦾 <em>Building machines that reason, act, and collaborate...</em> 🪽</p>
 
-<br><br>
-<!-- ========= END REPO TITLE ========= -->
+<p align="center"><em>while humans remain the system’s most unpredictable variable.</em></p>
+
+### <p align="center">⚡️</p>
+<!-- ========= END TEASER ========= -->
+
+<br>
+
+#
+
+<br><br><br>
+
 
 <!-- ========= START SPONSOR BADGE ========= -->
-#### <p align="center">[![Sponsor ॐ ⋆ ⋆ ⋆ ⋆ Mindful AI ⋆ ⋆ ⋆ ⋆ 𖤐](https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20Mindful%20AI%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%F0%96%A4%90-brightgreen?logo=github)](https://github.com/sponsors/Mindful-AI-Research)
+<p align="center">
+  <a href="https://github.com/sponsors/Mindful-AI-Research">
+    <img src="https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20Mindful%20AI%20%E2%8B%86%20Research%20%26%20Consulting%20%F0%96%A4%90%20%E2%8B%86-00FFFF?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0a1f44" alt="Sponsor ॐ ⋆ Mindful AI ⋆ Research & Consulting 𖤐 ⋆">
+  </a>
+</p>
+
 
 <br><br>
 <!-- ========= END SPONSOR BADGE ========= -->
@@ -32,6 +46,7 @@
 <br><br><br><br>
 <!-- =========  END PUC HEADER GIF ========= -->
 
+
 <!-- ======================================= Start Institucional INFOR =========================================== -->
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  <br>
 [**School:**]() FACEI — Computer Science Department  <br>
@@ -40,17 +55,6 @@
 **Professor:** ✨[Sandra Muniz Bozolan]() <br>
 **Author:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari)  
 <!-- ======================================= END I Institucional INFOR =========================================== -->
-
-
-
-<br><br>
-
-https://github.com/user-attachments/assets/634fe32c-96f2-4cb0-92d3-17dcbe52a90f
-
-<br><br>
-
-
-
 
 
 
