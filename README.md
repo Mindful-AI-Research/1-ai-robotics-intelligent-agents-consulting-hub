@@ -61,7 +61,7 @@
 <br><br>
 <!-- ======================================= SZEnd Institutional INFO ===========================================  -->
 
-<!-- ========= START NOTE ========= -->
+<!-- ========= START!WARNING ========= -->
 > [!WARNING]
 >
 > ⚠️ Projects may be publicly shared when permitted.  
@@ -74,18 +74,16 @@
 #
 
 <br><br>
-<!-- ========= END NOTE ========= -->
-<!-- ======================================= END I Institucional INFOR =========================================== -->
-
-
-**[Ship Your First Managed Agent — Anthropic / Claude]()**
+<!-- ========= END!WARNING ========= -->
 
 
 
-https://github.com/user-attachments/assets/03678747-9513-4179-bae7-698656e5716b  
+ ### <p align="center"> [Ship Your First Managed Agent]() 🦾 ⤳  [Anthropic / Claude]()
 
 
-[Source ⤳ YouTube](https://youtu.be/19HDQ9HppOA?si=PjQFdAYvaD2x7Jkn) · [More ⤳ Details & Timeline](./docs/workshops/ship-your-first-managed-agent.md)
+https://github.com/user-attachments/assets/6d966585-625b-4c76-abd1-573af170ba94
+
+[YouTube](https://youtu.be/19HDQ9HppOA?si=PjQFdAYvaD2x7Jkn) · [Details & Timeline](./docs/workshops/ship-your-first-managed-agent.md)
 
 
 
