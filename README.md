@@ -51,7 +51,7 @@
 [**School:**]() FACEI — Computer Science Department  <br>
 [**Course:**]() BSc in Human-Centered AI & Data Science • 6th Semester • 2026 <br>
 [**Subject:**](): Artificial Intelligence Knowledge Systems & Intelligent Agents  <br>
-**Professor:** ✨[Sandra Muniz Bozolan]() <br>
+**Prof. Dr.:** ✨ [Sandra Muniz Bozolan]() <br>
 **Author:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari)  
 
 <br><br>
