@@ -77,7 +77,7 @@
 <!-- ========= END!WARNING ========= -->
 
 
-
+<!--
  ### <p align="center"> [Ship Your First Managed Agent]() 🦾 ⤳  [Anthropic / Claude]()
 
 
@@ -85,7 +85,7 @@ https://github.com/user-attachments/assets/6d966585-625b-4c76-abd1-573af170ba94
 
 [YouTube](https://youtu.be/19HDQ9HppOA?si=PjQFdAYvaD2x7Jkn) · [Details & Timeline](./docs/workshops/ship-your-first-managed-agent.md)
 
-
+ -->
 
 
 
