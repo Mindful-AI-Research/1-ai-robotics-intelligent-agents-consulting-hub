@@ -81,7 +81,7 @@
  ### <p align="center"> [What Happens Inside an Artificial Intelligence]()  ⤳  [Mundo da Ciência]() 
 
 
- [YouTube]()(https://github.com/user-attachments/assets/ecd69b0b-e68e-4a8a-91ea-22bb1eeb49cb)
+ [YouTube](https://github.com/user-attachments/assets/ecd69b0b-e68e-4a8a-91ea-22bb1eeb49cb)
 
 
  
