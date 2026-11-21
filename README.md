@@ -88,8 +88,8 @@
 >
 > A deep learning system for handwritten character recognition using PyTorch and Streamlit. 
 >
->  ### 🦾🤖🪽 
->
+>  ### 🦾🤖🪽 <br>
+> 
 > ###  Related Project in this Series:
 >
 > 🔗 **[Project 3 - Robotic Process Automation (RPA) on Cloud-Hosted Android Device](https://github.com/Mindful-AI-Research/3-ai-robotics-intel-agents_cloud-android-rpa)**
