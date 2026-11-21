@@ -82,7 +82,7 @@
 <!-- ========= START MAIN REPO / Projects REFERENCES ========= -->
 > [!TIP]
 >
-> ###  Related Project in this Series:
+> ###  Related Projects in this Series:
 >
 > 🔗 **[Project 2 - Projects: 2**]()  ⤳ [HabitSync: AI Recommendation Agent](https://github.com/Mindful-AI-Research/2-ai-robotics-intel-agents_project-habitsync)**
 >
@@ -90,13 +90,15 @@
 
 <br><br>
 >
-> #
->
 > ###  Related Project in this Series:
 >
-> 🔗 **[Project 2 - Projects: 2**]()  ⤳ [HabitSync: AI Recommendation Agent](https://github.com/Mindful-AI-Research/2-ai-robotics-intel-agents_project-habitsync)**
+> 🔗 **[Project 3 - Robotic Process Automation (RPA) on Cloud-Hosted Android Device](https://github.com/Mindful-AI-Research/3-ai-robotics-intel-agents_cloud-android-rpa)**
 >
 > A deep learning system for handwritten character recognition using PyTorch and Streamlit.
+>
+>
+
+<br><br><br><br>
 
 <br><br>
 
