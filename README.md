@@ -87,8 +87,8 @@
 > 🔗 **[Project 2 - Projects: 2**]()  ⤳ [HabitSync: AI Recommendation Agent](https://github.com/Mindful-AI-Research/2-ai-robotics-intel-agents_project-habitsync)**
 >
 > A deep learning system for handwritten character recognition using PyTorch and Streamlit.
-
-<br><br>
+>
+> <br><br>
 >
 > ###  Related Project in this Series:
 >
